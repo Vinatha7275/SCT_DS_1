@@ -15,7 +15,8 @@ Tools & Technologies
 
 Contents
 - `Indian_Population.xlsx` → Raw dataset.  
-- `Indian_Population.pbix` → Power BI project file.  
+- `Indian_Population.pbix` → Power BI project file.
+- `Indian_Population_Dashboard_ScreenShots.png` → Dashboard ScreenShots.
 
 Dashboard Insights
 1. Page_1: Age Group Distribution
