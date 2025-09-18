@@ -19,15 +19,11 @@ Contents
 - `Indian_Population_Dashboard_ScreenShot.png` → PNG exports of dashboards.
 
 Dashboard Insights
-1. Page_1: Age Group Distribution
-   - Categorized into **0–20 years, 21–64 years, 65+ years**.  
-   - Visualized using bar + area charts to show India’s demographic spread.
-  
-2. Page 2: District-Level Insights
+
+-> District Level Insights
    - Population shown in **Millions** (Top districts).  
    - Literacy shown as **Percentage by District** (Top districts).  
-   - Interactive slicer to filter by State.
-
+   
 Knowledge Gained
 - Difference between **categorical vs continuous variables**.  
 - Importance of using **averages for percentages**.  
